@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/abhinandan74" width="150" alt="Abhinandan Kumar" />
-</p>
-
 # 👋 Hi, I'm Abhinandan Kumar  
 
 🎓 Student at **Ambalika Institute of Management and Technology**  
@@ -52,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> GitHub Stats  
 
 ![Abhinandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinandan74&show_icons=true&theme=radical)
 
