@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Abhinandan Kumar
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/abhinandan74" width="150" alt="Abhinandan Kumar" />
+</p>
+
+# 👋 Hi, I'm Abhinandan Kumar  
 
 🎓 Student at **Ambalika Institute of Management and Technology**  
 💻 Aspiring **Software Developer | Java & Python Enthusiast**  
