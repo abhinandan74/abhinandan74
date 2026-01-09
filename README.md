@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhinandan
+# 👋 Hi, I'm Abhinandan pandey
 
 🎓 Student at **Ambalika Institute of Management and Technology**  
 💻 Aspiring **Software Developer | Java & Python Enthusiast**  
