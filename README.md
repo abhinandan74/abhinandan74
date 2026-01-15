@@ -58,7 +58,7 @@
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: *(add your LinkedIn link)*  
+- 💼 
 - 📧 Email: *(add your email)*  
 
 ---
