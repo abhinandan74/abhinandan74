@@ -63,4 +63,5 @@
 
 ---
 
-⭐ 
+⭐ **If you like my work, consider giving a star!**  
+
