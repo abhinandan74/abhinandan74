@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
 - 🔹 Currently learning **Object Oriented Programming with Java**
 - 🔹 Solving problems on **LeetCode & GeeksforGeeks**
