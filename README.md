@@ -46,7 +46,7 @@
 - 🌐 Full Stack Web Development  
 - 🎯 Placement-oriented Projects  
 
-
+---
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> GitHub Stats  
 
