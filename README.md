@@ -5,7 +5,6 @@
 🚀 Passionate about coding, problem-solving, and building real-world projects 
 
 ---
-
 ## 🧠 About Me
 
 - 🔹 Currently learning **Object Oriented Programming with Java**
