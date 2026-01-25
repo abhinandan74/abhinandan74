@@ -17,7 +17,7 @@
 
 ## 🛠️Tech Stack 
 
-### 💡 Languages  
+### 💡Languages  
 - Java 
 - Python  
 - C  
