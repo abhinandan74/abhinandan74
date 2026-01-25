@@ -39,7 +39,7 @@
 
 ---
 
-## 📌 Current Focus  
+## 📌Current Focus  
 
 - 📘 Java OOP & Data Structures  
 - 🧩 Competitive Programming  
