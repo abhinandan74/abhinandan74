@@ -29,7 +29,7 @@
 - JavaScript  
 - React (Basics)  
 
-### 🗄️ Databases  
+### 🗄️Databases  
 - MySQL  
 
 ### ⚙️ Tools & Platforms  
