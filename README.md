@@ -8,7 +8,7 @@
 
 ## 🧠About Me
 
-- 🔹 Currently learning **Object Oriented Programming  with Java** 
+- 🔹 Currently learning **Object Oriented Programming with Java** 
 - 🔹 Solving problems on **LeetCode & GeeksforGeeks**
 - 🔹 Interested in **Web Development & Backend Development**
 - 🔹 Love turning ideas into working code  
