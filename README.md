@@ -41,7 +41,7 @@
 
 ## 📌Current Focus  
 
-- 📘 Java OOP & Data Structures  
+- 📘 Java OOP & Data Structures   
 - 🧩 Competitive Programming  
 - 🌐 Full Stack Web Development  
 - 🎯 Placement-oriented Projects  
