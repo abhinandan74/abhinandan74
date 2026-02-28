@@ -23,7 +23,7 @@
 - C  
 - JavaScript  
 
-### 🌐 Web Technologies  
+### 🌐 Web Technologies
 - HTML  
 - CSS  
 - JavaScript  
