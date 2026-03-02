@@ -1,4 +1,4 @@
-  Hi, I'm Abhinandan Kumar 
+  Hi, I'm Abhinandan Kumar
 
 🎓 Student at **Ambalika Institute of Management and Technology**
 💻 Aspiring **Software Developer | Java & Python Enthusiast** 
