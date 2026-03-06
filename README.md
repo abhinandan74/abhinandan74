@@ -21,7 +21,7 @@
 - Java 
 - Python  
 - C  
-- JavaScript  
+- JavaScript 
 
 ### 🌐 Web Technologies
 - HTML  
