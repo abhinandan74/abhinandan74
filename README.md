@@ -1,7 +1,7 @@
 Hi,I'm Abhinandan Kumar 
 
 🎓 Student at **Ambalika Institute of Management and Technology** 
-💻 Aspiring **Software Developer | Java & Python Enthusiast** 
+💻 Aspiring **Software Developer | Java & Python Enthusiast**  
 🚀 Passionate about coding, problem-solving,and building real-world projects  
 
 ---
