@@ -57,8 +57,8 @@ Hi,I'm Abhinandan Kumar
 
 ## 📫 Connect With Me   
 
-- 💼 LinkedIn: *(add your LinkedIn link)*  
-- 📧 Email: *(add your email)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/abhinandan38)*  
+- 📧 Email: *(abhinandanp635@gmail.com)*  
 
 ---
 
