@@ -49,7 +49,7 @@ Hi,I'm Abhinandan Kumar
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> GitHub Stats  
 
-![Abhinandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinandan74&show_icons=true&theme=radical)
+![Abhinandan's GitHub Stats](https://github.com/abhinandan74)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan74&layout=compact&theme=radical) 
 
