@@ -29,7 +29,7 @@ Hi,I'm Abhinandan Kumar
 - React (Basics)  
 
 ### 🗄️Databases  
-- MySQL  
+- MySQL 
 
 ### ⚙️ Tools & Platforms  
 - Git & GitHub  
