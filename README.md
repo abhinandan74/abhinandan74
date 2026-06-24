@@ -6,7 +6,7 @@
 
 --- 
 
-## 🧠 About Me
+## 🧠 About Me 
 
 * 🔹 Currently pursuing a Bachelor's degree in Computer Science and Engineering
 * 🔹 Strong foundation in **Data Structures, Algorithms, and Object-Oriented Programming**
