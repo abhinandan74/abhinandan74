@@ -21,7 +21,7 @@
 ### 💡 Programming Languages
 
 * Java
-* Python
+* Python 
 * C
 * JavaScript
 
