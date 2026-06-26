@@ -44,7 +44,7 @@
 
 ---
 
-## 📚 Core Competencies
+## 📚 Core Competencies. 
 
 * Data Structures and Algorithms
 * Object-Oriented Programming
